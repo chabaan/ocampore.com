@@ -3,7 +3,7 @@ title: "Tent Camping Aesthetic Drawing: Sketch Your Cozy Campsite"
 meta: "Learn to draw a tent camping aesthetic scene with simple techniques. Capture the glow of a lantern, the texture of canvas, and the feel of a starlit camp."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-aesthetic-drawing-sketch-yo.webp"
+image: "/images/tent-camping-aesthetic-drawing-sketch-your-cozy-campsite.webp"
 pubDate: "2026-08-08T18:00:00Z"
 ---
 

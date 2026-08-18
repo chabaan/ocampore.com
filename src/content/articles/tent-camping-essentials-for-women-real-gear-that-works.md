@@ -3,7 +3,7 @@ title: "Tent Camping Essentials for Women: Real Gear That Works"
 meta: "Discover tent camping essentials for women that solve real problems: a proven packing system, comfort hacks, and gear that fits. No fluff, just what works."
 category: "Camping Essentials"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-for-women-real-g.webp"
+image: "/images/tent-camping-essentials-for-women-real-gear-that-works.webp"
 pubDate: "2026-07-22T01:30:00Z"
 ---
 

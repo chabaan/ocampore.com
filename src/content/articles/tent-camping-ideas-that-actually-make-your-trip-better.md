@@ -3,7 +3,7 @@ title: "Tent Camping Ideas That Actually Make Your Trip Better"
 meta: "Practical tent camping ideas that solve real problems: wind-proof setup, condensation control, and cozy sleep without the cold ground."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-ideas-that-actually-make-yo.webp"
+image: "/images/tent-camping-ideas-that-actually-make-your-trip-better.webp"
 pubDate: "2026-07-09T14:30:00Z"
 ---
 

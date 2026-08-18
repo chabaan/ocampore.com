@@ -3,7 +3,7 @@ title: "Beach Tent Camping Setup: Keep Sand Out & Stakes In"
 meta: "Learn beach tent camping setup ideas to keep sand out, stakes secure, and your tent cool. Expert tips for wind, tides, and soft sand."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/beach-tent-camping-setup-keep-sand-out-s.webp"
+image: "/images/beach-tent-camping-setup-keep-sand-out-stakes-in.webp"
 pubDate: "2026-07-28T01:30:00Z"
 ---
 

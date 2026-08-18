@@ -3,7 +3,7 @@ title: "Sleep Better Camping: Tent Setup Ideas for Real Rest"
 meta: "Tent camping set up ideas sleep: learn the exact pitch, pad, and pillow method that turns a lumpy tent floor into deep, restorative rest."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/sleep-better-camping-tent-setup-ideas-fo.webp"
+image: "/images/sleep-better-camping-tent-setup-ideas-for-real-rest.webp"
 pubDate: "2026-07-23T16:00:00Z"
 ---
 

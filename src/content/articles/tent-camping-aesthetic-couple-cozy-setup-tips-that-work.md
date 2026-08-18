@@ -3,7 +3,7 @@ title: "Tent Camping Aesthetic Couple: Cozy Setup Tips That Work"
 meta: "Create a tent camping aesthetic couple can enjoy with practical lighting, layering, and layout tips. Real techniques for a romantic, functional camp."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-aesthetic-couple-cozy-setup.webp"
+image: "/images/tent-camping-aesthetic-couple-cozy-setup-tips-that-work.webp"
 pubDate: "2026-07-16T18:00:00Z"
 ---
 

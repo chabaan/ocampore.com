@@ -3,7 +3,7 @@ title: "Tent Living Aesthetic: Cozy Setup Tips for Real Campers"
 meta: "Create a tent living aesthetic with functional, cozy setup tips. Learn how to layer lighting, organize gear, and add warmth without sacrificing safety."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-living-aesthetic-cozy-setup-tips-fo.webp"
+image: "/images/tent-living-aesthetic-cozy-setup-tips-for-real-campers.webp"
 pubDate: "2026-07-12T23:00:00Z"
 ---
 

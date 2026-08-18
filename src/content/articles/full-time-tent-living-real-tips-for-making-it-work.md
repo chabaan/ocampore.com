@@ -3,7 +3,7 @@ title: "Full-Time Tent Living: Real Tips for Making It Work"
 meta: "Practical ideas for tent living full time, from site setup to weatherproofing. Learn real techniques for a comfortable, safe long-term tent home."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/full-time-tent-living-real-tips-for-maki.webp"
+image: "/images/full-time-tent-living-real-tips-for-making-it-work.webp"
 pubDate: "2026-07-26T03:00:00Z"
 ---
 

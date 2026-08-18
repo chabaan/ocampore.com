@@ -3,7 +3,7 @@ title: "Summer Tent Camping Essentials: My Gear List & Tips"
 meta: "My complete summer tent camping essentials list with a unique tent cooling hack and must-have gear for hot weather comfort."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/summer-tent-camping-essentials-my-gear-l.webp"
+image: "/images/summer-tent-camping-essentials-my-gear-list-tips.webp"
 pubDate: "2026-08-02T16:00:00Z"
 ---
 

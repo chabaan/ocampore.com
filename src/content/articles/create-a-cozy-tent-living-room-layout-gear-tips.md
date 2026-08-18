@@ -3,7 +3,7 @@ title: "Create a Cozy Tent Living Room: Layout & Gear Tips"
 meta: "Turn your tent into a cozy living room with smart layout tricks, gear tips, and a unique stake-and-shelf method for a clutter-free camp space."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/create-a-cozy-tent-living-room-layout-ge.webp"
+image: "/images/create-a-cozy-tent-living-room-layout-gear-tips.webp"
 pubDate: "2026-07-30T14:30:00Z"
 ---
 

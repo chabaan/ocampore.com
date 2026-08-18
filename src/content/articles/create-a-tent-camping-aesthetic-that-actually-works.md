@@ -3,7 +3,7 @@ title: "Create a Tent Camping Aesthetic That Actually Works"
 meta: "Learn how to create a tent camping aesthetic that blends cozy visuals with practical setup. Tips on lighting, layering, and tent layout."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/create-a-tent-camping-aesthetic-that-act.webp"
+image: "/images/create-a-tent-camping-aesthetic-that-actually-works.webp"
 pubDate: "2026-07-27T18:00:00Z"
 ---
 

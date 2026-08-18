@@ -3,7 +3,7 @@ title: "Tent Camping Setup: The 7-Step Sequence That Saves Time"
 meta: "Learn the exact tent camping setup sequence that prevents sagging, flooding, and wind damage. Includes a trick for leveling on uneven ground."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-setup-the-7-step-sequence-t.webp"
+image: "/images/tent-camping-setup-the-7-step-sequence-that-saves-time.webp"
 pubDate: "2026-07-28T23:00:00Z"
 ---
 

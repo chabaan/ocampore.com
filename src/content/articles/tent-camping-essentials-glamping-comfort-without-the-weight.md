@@ -3,7 +3,7 @@ title: "Tent Camping Essentials Glamping: Comfort Without the Weight"
 meta: "Get real tips for tent camping essentials glamping. Learn how to add comfort without hauling extra gear. Practical advice for a cozy camp setup."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-glamping-comfort.webp"
+image: "/images/tent-camping-essentials-glamping-comfort-without-the-weight.webp"
 pubDate: "2026-08-01T01:30:00Z"
 ---
 

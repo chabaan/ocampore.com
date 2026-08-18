@@ -3,7 +3,7 @@ title: "Tent Camping Ideas for Kids: Fun & Easy Setup Tips"
 meta: "Discover tent camping ideas for kids with practical setup tips, gear hacks, and activities that keep children engaged and safe outdoors."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-ideas-for-kids-fun-easy-set.webp"
+image: "/images/tent-camping-ideas-for-kids-fun-easy-setup-tips.webp"
 pubDate: "2026-07-13T03:00:00Z"
 ---
 

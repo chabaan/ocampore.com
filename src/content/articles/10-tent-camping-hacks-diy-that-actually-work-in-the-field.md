@@ -3,7 +3,7 @@ title: "10 Tent Camping Hacks DIY That Actually Work in the Field"
 meta: "Discover 10 tent camping hacks DIY you can make at home for less than $5 each. From wind-proof stakes to a no-drip lantern holder."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/10-tent-camping-hacks-diy-that-actually-.webp"
+image: "/images/10-tent-camping-hacks-diy-that-actually-work-in-the-field.webp"
 pubDate: "2026-08-06T14:30:00Z"
 ---
 

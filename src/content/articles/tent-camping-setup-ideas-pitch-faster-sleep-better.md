@@ -3,7 +3,7 @@ title: "Tent Camping Setup Ideas: Pitch Faster, Sleep Better"
 meta: "Tent camping setup ideas that save time and keep you dry. Learn the exact sequence, wind tricks, and rain strategy for a stress-free campsite."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-setup-ideas-pitch-faster-sl.webp"
+image: "/images/tent-camping-setup-ideas-pitch-faster-sleep-better.webp"
 pubDate: "2026-07-12T20:30:00Z"
 ---
 

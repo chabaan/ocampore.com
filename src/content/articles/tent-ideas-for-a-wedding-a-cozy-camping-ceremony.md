@@ -3,7 +3,7 @@ title: "Tent Ideas for a Wedding: A Cozy Camping Ceremony"
 meta: "Explore tent ideas for a wedding that blend romance with the outdoors. Get practical setup tips for a cozy, memorable camping ceremony."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-ideas-for-a-wedding-a-cozy-camping-.webp"
+image: "/images/tent-ideas-for-a-wedding-a-cozy-camping-ceremony.webp"
 pubDate: "2026-07-22T23:00:00Z"
 ---
 

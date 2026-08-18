@@ -3,7 +3,7 @@ title: "Tent Camping Essentials Packing Lists That Actually Work"
 meta: "A genuinely helpful tent camping essentials packing list with a unique packing method, gear sizing tips, and weather-specific advice."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-packing-lists-th.webp"
+image: "/images/tent-camping-essentials-packing-lists-that-actually-work.webp"
 pubDate: "2026-07-24T16:00:00Z"
 ---
 

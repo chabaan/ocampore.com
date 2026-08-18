@@ -3,7 +3,7 @@ title: "Aesthetic Tent Camping Setup Ideas for a Cozy Campsite"
 meta: "Discover aesthetic tent camping setup ideas to create a cozy, organized campsite. Learn lighting, layout, and gear tips for a beautiful outdoor space."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/aesthetic-tent-camping-setup-ideas-for-a.webp"
+image: "/images/aesthetic-tent-camping-setup-ideas-for-a-cozy-campsite.webp"
 pubDate: "2026-07-12T14:30:00Z"
 ---
 

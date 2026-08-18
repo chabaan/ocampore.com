@@ -3,7 +3,7 @@ title: "Tent Camping Essentials Checklist: Gear I Never Skip"
 meta: "A tent camping essentials checklist with specific gear, setup tricks, and safety tips. Get the exact technique for packing light and staying dry."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-checklist-gear-i.webp"
+image: "/images/tent-camping-essentials-checklist-gear-i-never-skip.webp"
 pubDate: "2026-07-28T14:30:00Z"
 ---
 

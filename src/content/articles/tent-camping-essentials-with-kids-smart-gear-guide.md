@@ -3,7 +3,7 @@ title: "Tent Camping Essentials with Kids: Smart Gear Guide"
 meta: "Tent camping essentials with kids: practical gear tips, setup tricks, and safety advice for a stress-free family trip."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-with-kids-smart-.webp"
+image: "/images/tent-camping-essentials-with-kids-smart-gear-guide.webp"
 pubDate: "2026-07-18T03:00:00Z"
 ---
 

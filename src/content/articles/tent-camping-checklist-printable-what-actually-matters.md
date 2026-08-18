@@ -3,7 +3,7 @@ title: "Tent Camping Checklist Printable: What Actually Matters"
 meta: "Download a tent camping checklist printable that goes beyond the basics. Expert tips on gear, safety, and setup for a stress-free trip."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-checklist-printable-what-ac.webp"
+image: "/images/tent-camping-checklist-printable-what-actually-matters.webp"
 pubDate: "2026-07-07T01:30:00Z"
 ---
 

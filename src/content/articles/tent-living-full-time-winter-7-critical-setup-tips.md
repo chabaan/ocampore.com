@@ -3,7 +3,7 @@ title: "Tent Living Full Time Winter: 7 Critical Setup Tips"
 meta: "Practical advice for tent living full time winter, from condensation control to safe heating. Real techniques for cold-weather camping."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-living-full-time-winter-7-critical-.webp"
+image: "/images/tent-living-full-time-winter-7-critical-setup-tips.webp"
 pubDate: "2026-07-21T18:00:00Z"
 ---
 

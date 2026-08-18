@@ -3,7 +3,7 @@ title: "Tent Ideas for Sleepovers Outside: Cozy Setup Tips"
 meta: "Creative tent ideas for sleepovers outside, with setup tricks for comfort, weather prep, and gear that makes backyard camping fun and safe."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-ideas-for-sleepovers-outside-cozy-s.webp"
+image: "/images/tent-ideas-for-sleepovers-outside-cozy-setup-tips.webp"
 pubDate: "2026-07-18T23:00:00Z"
 ---
 

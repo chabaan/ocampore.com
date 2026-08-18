@@ -3,7 +3,7 @@ title: "10 Tent Camping Hacks That Actually Save Your Trip"
 meta: "Discover tent camping hacks that solve real problems: setup tricks, weather fixes, gear storage, and safety tips from an experienced camper."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/10-tent-camping-hacks-that-actually-save.webp"
+image: "/images/10-tent-camping-hacks-that-actually-save-your-trip.webp"
 pubDate: "2026-07-22T20:30:00Z"
 ---
 

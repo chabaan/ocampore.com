@@ -3,7 +3,7 @@ title: "Tent Camping Organization Ideas That Actually Work in the Field"
 meta: "Practical tent camping organization ideas from a seasoned camper: gear storage, kitchen setup, and packing tricks that keep your tent tidy and your trip stress-"
 category: "Camping Organization"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-organization-ideas-that-act.webp"
+image: "/images/tent-camping-organization-ideas-that-actually-work-in-the-field.webp"
 pubDate: "2026-08-01T16:00:00Z"
 ---
 

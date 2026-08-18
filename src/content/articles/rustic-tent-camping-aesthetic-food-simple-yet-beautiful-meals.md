@@ -3,7 +3,7 @@ title: "Rustic Tent Camping Aesthetic Food: Simple Yet Beautiful Meals"
 meta: "Elevate your tent camping aesthetic food with simple, beautiful meals. Learn layering, color, and no-cook plating tricks for stunning campsite dining."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/rustic-tent-camping-aesthetic-food-simpl.webp"
+image: "/images/rustic-tent-camping-aesthetic-food-simple-yet-beautiful-meals.webp"
 pubDate: "2026-07-26T05:30:00Z"
 ---
 

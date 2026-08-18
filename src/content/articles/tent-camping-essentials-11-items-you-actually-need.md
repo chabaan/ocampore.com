@@ -3,7 +3,7 @@ title: "Tent Camping Essentials: 11 Items You Actually Need"
 meta: "Genuine tent camping essentials that go beyond the obvious list. Real-world gear tips for setup, weather, and comfort from an experienced tent camper."
 category: "Camping Essentials"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-11-items-you-act.webp"
+image: "/images/tent-camping-essentials-11-items-you-actually-need.webp"
 pubDate: "2026-07-31T18:00:00Z"
 ---
 

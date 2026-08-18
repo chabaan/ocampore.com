@@ -3,7 +3,7 @@ title: "Tent Ideas Inside: Cozy Setup Tips for Your Camping Home"
 meta: "Transform your tent ideas inside with practical layout tips, lighting hacks, and gear tricks for a cozy, organized camping shelter."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-ideas-inside-cozy-setup-tips-for-yo.webp"
+image: "/images/tent-ideas-inside-cozy-setup-tips-for-your-camping-home.webp"
 pubDate: "2026-07-14T20:30:00Z"
 ---
 

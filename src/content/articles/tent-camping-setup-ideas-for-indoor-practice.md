@@ -3,7 +3,7 @@ title: "Tent Camping Setup Ideas for Indoor Practice"
 meta: "Master tent camping setup ideas indoor with these safe, step-by-step techniques for practicing pitch, ventilation, and gear checks before your trip."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-setup-ideas-for-indoor-prac.webp"
+image: "/images/tent-camping-setup-ideas-for-indoor-practice.webp"
 pubDate: "2026-07-25T20:30:00Z"
 ---
 

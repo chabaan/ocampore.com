@@ -3,7 +3,7 @@ title: "Tent Camping Aesthetic Caption: 5 Photo-Worthy Setup Tricks"
 meta: "Learn how to craft a tent camping aesthetic caption that matches your cozy campsite. 5 specific setup tricks for photo-worthy tent photos."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-aesthetic-caption-5-photo-w.webp"
+image: "/images/tent-camping-aesthetic-caption-5-photo-worthy-setup-tricks.webp"
 pubDate: "2026-08-03T20:30:00Z"
 ---
 

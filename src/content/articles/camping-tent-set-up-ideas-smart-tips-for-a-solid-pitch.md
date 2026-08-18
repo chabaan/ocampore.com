@@ -3,7 +3,7 @@ title: "Camping Tent Set Up Ideas: Smart Tips for a Solid Pitch"
 meta: "Camping tent set up ideas that actually work. Learn the exact sequence, wind tricks, and rain strategies for a stable, comfortable tent every time."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/camping-tent-set-up-ideas-smart-tips-for.webp"
+image: "/images/camping-tent-set-up-ideas-smart-tips-for-a-solid-pitch.webp"
 pubDate: "2026-08-01T18:00:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "10 Tent Camping Hacks Campsite Setup & Comfort"
 meta: "Discover tent camping hacks campsite tips for faster setup, better sleep, and weather-proofing. Expert techniques for a cozy, organized camp."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/10-tent-camping-hacks-campsite-setup-com.webp"
+image: "/images/10-tent-camping-hacks-campsite-setup-comfort.webp"
 pubDate: "2026-08-03T05:30:00Z"
 ---
 

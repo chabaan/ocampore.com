@@ -3,7 +3,7 @@ title: "DIY Tent Living Full Time: A Practical Setup Guide"
 meta: "Learn the essential DIY techniques for tent living full time, from site selection to weatherproofing, with expert tips for a comfortable and safe long-term setu"
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/diy-tent-living-full-time-a-practical-se.webp"
+image: "/images/diy-tent-living-full-time-a-practical-setup-guide.webp"
 pubDate: "2026-07-14T14:30:00Z"
 ---
 

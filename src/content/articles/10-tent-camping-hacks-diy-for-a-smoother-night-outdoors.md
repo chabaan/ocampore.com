@@ -3,7 +3,7 @@ title: "10 Tent Camping Hacks DIY for a Smoother Night Outdoors"
 meta: "Discover 10 tent camping hacks DIY that solve real problems. From guylines to gear storage, these field-tested tips make tent life easier."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/10-tent-camping-hacks-diy-for-a-smoother.webp"
+image: "/images/10-tent-camping-hacks-diy-for-a-smoother-night-outdoors.webp"
 pubDate: "2026-07-11T05:30:00Z"
 ---
 

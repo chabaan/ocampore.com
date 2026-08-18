@@ -3,7 +3,7 @@ title: "Tent Living Room Blanket Forts: Cozy Setup Guide"
 meta: "Learn how to build a tent living room blanket fort that stays up and keeps you cozy. One specific trick you won't find on other sites."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-living-room-blanket-forts-cozy-setu.webp"
+image: "/images/tent-living-room-blanket-forts-cozy-setup-guide.webp"
 pubDate: "2026-07-28T05:30:00Z"
 ---
 

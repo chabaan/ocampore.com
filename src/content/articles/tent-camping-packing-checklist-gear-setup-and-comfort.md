@@ -3,7 +3,7 @@ title: "Tent Camping Packing Checklist: Gear, Setup, and Comfort"
 meta: "Tent camping packing checklist with specific gear sizes, setup sequences, and a trick for wind stability. Practical, honest advice from an experienced tent camp"
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-packing-checklist-gear-setu.webp"
+image: "/images/tent-camping-packing-checklist-gear-setup-and-comfort.webp"
 pubDate: "2026-08-05T18:00:00Z"
 ---
 

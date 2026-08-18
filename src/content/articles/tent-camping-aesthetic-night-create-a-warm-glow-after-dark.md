@@ -3,7 +3,7 @@ title: "Tent Camping Aesthetic Night: Create a Warm Glow After Dark"
 meta: "Transform your tent camping aesthetic night with soft lighting, cozy layers, and smart setup. Get practical tips for a beautiful, functional campsite after suns"
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-aesthetic-night-create-a-wa.webp"
+image: "/images/tent-camping-aesthetic-night-create-a-warm-glow-after-dark.webp"
 pubDate: "2026-08-05T05:30:00Z"
 ---
 

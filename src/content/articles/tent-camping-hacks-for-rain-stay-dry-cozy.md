@@ -3,7 +3,7 @@ title: "Tent Camping Hacks for Rain: Stay Dry & Cozy"
 meta: "Keep your tent dry with these tent camping hacks for rain. Learn the fly-first pitch, seam sealing, and drainage tricks that actually work."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-hacks-for-rain-stay-dry-coz.webp"
+image: "/images/tent-camping-hacks-for-rain-stay-dry-cozy.webp"
 pubDate: "2026-07-08T01:30:00Z"
 ---
 

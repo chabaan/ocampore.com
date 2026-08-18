@@ -3,7 +3,7 @@ title: "Tent Living Ideas Outdoor: 7 Setup Tricks That Actually Work"
 meta: "Tent living ideas outdoor that go beyond the basics. Learn 7 specific setup tricks for comfort, weather protection, and cozy camping."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-living-ideas-outdoor-7-setup-tricks.webp"
+image: "/images/tent-living-ideas-outdoor-7-setup-tricks-that-actually-work.webp"
 pubDate: "2026-08-10T01:30:00Z"
 ---
 

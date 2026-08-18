@@ -3,7 +3,7 @@ title: "Tent Camping Aesthetic Quotes for a Cozy Setup"
 meta: "Tent camping aesthetic quotes can inspire a beautiful campsite. Learn how to arrange your gear and tent for a cozy, photo-worthy setup with practical tips."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-aesthetic-quotes-for-a-cozy.webp"
+image: "/images/tent-camping-aesthetic-quotes-for-a-cozy-setup.webp"
 pubDate: "2026-07-20T14:30:00Z"
 ---
 

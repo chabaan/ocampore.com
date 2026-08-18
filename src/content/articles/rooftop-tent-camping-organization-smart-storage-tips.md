@@ -3,7 +3,7 @@ title: "Rooftop Tent Camping Organization: Smart Storage Tips"
 meta: "Learn rooftop tent camping organization with gear storage hacks, weight distribution tips, and a no-rattle packing method for a quieter campsite."
 category: "Camping Organization"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/rooftop-tent-camping-organization-smart-.webp"
+image: "/images/rooftop-tent-camping-organization-smart-storage-tips.webp"
 pubDate: "2026-07-27T16:00:00Z"
 ---
 

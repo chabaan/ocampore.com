@@ -3,7 +3,7 @@ title: "Cozy Tent Camping Aesthetic for Couples: Night Setup Tips"
 meta: "Create a tent camping aesthetic night couple style with warm lighting, layered bedding, and smart layout tricks that feel romantic without the bulk."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/cozy-tent-camping-aesthetic-for-couples-.webp"
+image: "/images/cozy-tent-camping-aesthetic-for-couples-night-setup-tips.webp"
 pubDate: "2026-07-08T18:00:00Z"
 ---
 

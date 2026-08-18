@@ -3,7 +3,7 @@ title: "Tent Camping Essentials Checklist: Gear I Actually Use"
 meta: "A real tent camping essentials checklist from an experienced camper. Discover specific gear, setup tricks, and safety tips for a stress-free trip."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-checklist-gear-i-1.webp"
+image: "/images/tent-camping-essentials-checklist-gear-i-actually-use.webp"
 pubDate: "2026-08-04T16:00:00Z"
 ---
 

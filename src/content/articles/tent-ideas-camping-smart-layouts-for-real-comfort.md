@@ -3,7 +3,7 @@ title: "Tent Ideas Camping: Smart Layouts for Real Comfort"
 meta: "Discover tent ideas camping layouts that actually work. Learn how to zone your tent for gear, sleep, and weather protection from a seasoned tent camper."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-ideas-camping-smart-layouts-for-rea.webp"
+image: "/images/tent-ideas-camping-smart-layouts-for-real-comfort.webp"
 pubDate: "2026-07-12T03:00:00Z"
 ---
 

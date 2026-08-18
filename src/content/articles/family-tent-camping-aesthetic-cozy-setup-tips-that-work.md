@@ -3,7 +3,7 @@ title: "Family Tent Camping Aesthetic: Cozy Setup Tips That Work"
 meta: "Get a tent camping aesthetic for your family with practical gear, lighting, and layout tips that are safe, cozy, and genuinely helpful."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/family-tent-camping-aesthetic-cozy-setup.webp"
+image: "/images/family-tent-camping-aesthetic-cozy-setup-tips-that-work.webp"
 pubDate: "2026-08-04T03:00:00Z"
 ---
 

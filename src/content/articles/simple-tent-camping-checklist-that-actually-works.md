@@ -3,7 +3,7 @@ title: "Simple Tent Camping Checklist That Actually Works"
 meta: "This simple tent camping checklist goes beyond the basics with a smart packing sequence and a trick to avoid forgetting critical gear."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/simple-tent-camping-checklist-that-actua.webp"
+image: "/images/simple-tent-camping-checklist-that-actually-works.webp"
 pubDate: "2026-07-15T18:00:00Z"
 ---
 

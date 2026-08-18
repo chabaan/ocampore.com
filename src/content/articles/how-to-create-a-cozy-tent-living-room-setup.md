@@ -3,7 +3,7 @@ title: "How to Create a Cozy Tent Living Room Setup"
 meta: "Learn how to create a functional tent living room for comfort and organization on your next camping trip. Includes setup tips and gear advice."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/how-to-create-a-cozy-tent-living-room-se.webp"
+image: "/images/how-to-create-a-cozy-tent-living-room-setup.webp"
 pubDate: "2026-07-26T23:00:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Primitive Tent Camping Checklist: Pack Light, Stay Safe"
 meta: "A practical primitive tent camping checklist for backcountry trips. Pack light, stay safe, and leave no trace with these expert tips."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/primitive-tent-camping-checklist-pack-li.webp"
+image: "/images/primitive-tent-camping-checklist-pack-light-stay-safe.webp"
 pubDate: "2026-08-01T03:00:00Z"
 ---
 

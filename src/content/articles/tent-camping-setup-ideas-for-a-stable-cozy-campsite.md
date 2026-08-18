@@ -3,7 +3,7 @@ title: "Tent Camping Setup Ideas for a Stable, Cozy Campsite"
 meta: "Smart tent camping set up ideas campsite that go beyond the obvious. Learn the exact sequence, wind strategy, and ground prep for a stable, dry camp."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-setup-ideas-for-a-stable-co.webp"
+image: "/images/tent-camping-setup-ideas-for-a-stable-cozy-campsite.webp"
 pubDate: "2026-08-02T23:00:00Z"
 ---
 

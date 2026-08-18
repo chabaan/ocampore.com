@@ -3,7 +3,7 @@ title: "Tent Camping Must Haves: Gear That Actually Matters"
 meta: "Real tent camping must haves from an experienced camper. Learn the gear, setup tricks, and safety tips that make your trip better."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-must-haves-gear-that-actual.webp"
+image: "/images/tent-camping-must-haves-gear-that-actually-matters.webp"
 pubDate: "2026-08-10T20:30:00Z"
 ---
 

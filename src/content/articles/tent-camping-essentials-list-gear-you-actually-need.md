@@ -3,7 +3,7 @@ title: "Tent Camping Essentials List: Gear You Actually Need"
 meta: "A practical tent camping essentials list with real-world tips, from site prep to weather-ready gear. Stop overpacking and start camping smarter."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-essentials-list-gear-you-ac.webp"
+image: "/images/tent-camping-essentials-list-gear-you-actually-need.webp"
 pubDate: "2026-07-23T01:30:00Z"
 ---
 

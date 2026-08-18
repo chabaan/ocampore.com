@@ -3,7 +3,7 @@ title: "25 Tent Camping Hacks DIY Ideas for a Cozy Night Outdoors"
 meta: "Discover 25 tent camping hacks DIY ideas that solve real problems. From lighting to wind breaks, these clever tips make your tent setup easier and cozier."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/25-tent-camping-hacks-diy-ideas-for-a-co.webp"
+image: "/images/25-tent-camping-hacks-diy-ideas-for-a-cozy-night-outdoors.webp"
 pubDate: "2026-07-18T05:30:00Z"
 ---
 

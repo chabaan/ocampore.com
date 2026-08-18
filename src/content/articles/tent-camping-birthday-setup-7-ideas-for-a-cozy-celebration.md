@@ -3,7 +3,7 @@ title: "Tent Camping Birthday Setup: 7 Ideas for a Cozy Celebration"
 meta: "Plan a tent camping birthday with these setup ideas, from a gift table to cozy lighting. Get practical tips for a fun, stress-free celebration outdoors."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-birthday-setup-7-ideas-for-.webp"
+image: "/images/tent-camping-birthday-setup-7-ideas-for-a-cozy-celebration.webp"
 pubDate: "2026-07-27T03:00:00Z"
 ---
 

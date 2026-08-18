@@ -3,7 +3,7 @@ title: "Winter Tent Setup: Stay Warm & Stable in Snow"
 meta: "Learn winter tent camping setup ideas for snow, wind, and cold. Expert tips on staking, insulation, and ventilation."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/winter-tent-setup-stay-warm-stable-in-sn.webp"
+image: "/images/winter-tent-setup-stay-warm-stable-in-snow.webp"
 pubDate: "2026-08-11T18:00:00Z"
 ---
 

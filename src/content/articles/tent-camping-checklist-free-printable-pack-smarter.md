@@ -3,7 +3,7 @@ title: "Tent Camping Checklist Free Printable – Pack Smarter"
 meta: "Download our tent camping checklist free printable with a unique pre-trip test pitch step. Pack smarter, avoid forgotten gear."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-checklist-free-printable-pa.webp"
+image: "/images/tent-camping-checklist-free-printable-pack-smarter.webp"
 pubDate: "2026-07-26T14:30:00Z"
 ---
 

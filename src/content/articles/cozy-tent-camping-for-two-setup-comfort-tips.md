@@ -3,7 +3,7 @@ title: "Cozy Tent Camping for Two: Setup & Comfort Tips"
 meta: "Discover practical tent camping ideas for couples, from dual-entry tent setup to cozy sleep systems that keep you both warm and happy."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/cozy-tent-camping-for-two-setup-comfort-.webp"
+image: "/images/cozy-tent-camping-for-two-setup-comfort-tips.webp"
 pubDate: "2026-08-07T05:30:00Z"
 ---
 

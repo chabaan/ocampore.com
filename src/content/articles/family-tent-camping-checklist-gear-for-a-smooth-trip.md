@@ -3,7 +3,7 @@ title: "Family Tent Camping Checklist: Gear for a Smooth Trip"
 meta: "Use this family tent camping checklist to pack smarter for your next trip. Get gear tips, setup tricks, and a unique packing method that saves time."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/family-tent-camping-checklist-gear-for-a.webp"
+image: "/images/family-tent-camping-checklist-gear-for-a-smooth-trip.webp"
 pubDate: "2026-07-22T18:00:00Z"
 ---
 

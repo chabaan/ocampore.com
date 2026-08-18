@@ -3,7 +3,7 @@ title: "Tent Camping With Kids: Setup Tricks for a Smooth Trip"
 meta: "Tent camping with kids? Learn the exact setup sequence, gear sizes, and safety tips that make family tent camping easier and more fun."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-with-kids-setup-tricks-for-.webp"
+image: "/images/tent-camping-with-kids-setup-tricks-for-a-smooth-trip.webp"
 pubDate: "2026-07-21T05:30:00Z"
 ---
 

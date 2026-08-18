@@ -3,7 +3,7 @@ title: "Tent Camping Setup Ideas: 5 Pro Tips for a Better Pitch"
 meta: "Tent camping setup ideas aren't just about staking corners. Learn my exact sequence for a taut, dry pitch that handles wind and rain like a pro."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-setup-ideas-5-pro-tips-for-.webp"
+image: "/images/tent-camping-setup-ideas-5-pro-tips-for-a-better-pitch.webp"
 pubDate: "2026-07-31T03:00:00Z"
 ---
 

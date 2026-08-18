@@ -3,7 +3,7 @@ title: "Tent Ideas at Home: Set Up Your Backyard Retreat"
 meta: "Transform your tent into a backyard retreat with these tent ideas at home. Learn setup hacks, weatherproofing tips, and cozy touches for a staycation."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-ideas-at-home-set-up-your-backyard-.webp"
+image: "/images/tent-ideas-at-home-set-up-your-backyard-retreat.webp"
 pubDate: "2026-07-14T16:00:00Z"
 ---
 

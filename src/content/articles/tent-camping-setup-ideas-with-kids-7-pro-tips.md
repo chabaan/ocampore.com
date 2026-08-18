@@ -3,7 +3,7 @@ title: "Tent Camping Setup Ideas With Kids: 7 Pro Tips"
 meta: "Tent camping setup ideas with kids that actually work. Learn the kid zone method, wind-safe staking, and how to avoid the biggest family setup mistake."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-setup-ideas-with-kids-7-pro.webp"
+image: "/images/tent-camping-setup-ideas-with-kids-7-pro-tips.webp"
 pubDate: "2026-07-30T23:00:00Z"
 ---
 

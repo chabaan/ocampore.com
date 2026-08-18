@@ -3,7 +3,7 @@ title: "Tent Camping Checklist with Kids: Gear & Setup Tips"
 meta: "A practical tent camping checklist with kids, from gear to setup. Get specific tips on organizing, safety, and keeping little ones comfortable."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-checklist-with-kids-gear-se.webp"
+image: "/images/tent-camping-checklist-with-kids-gear-setup-tips.webp"
 pubDate: "2026-07-18T18:00:00Z"
 ---
 

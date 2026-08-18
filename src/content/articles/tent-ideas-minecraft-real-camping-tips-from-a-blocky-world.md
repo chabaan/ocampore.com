@@ -3,7 +3,7 @@ title: "Tent Ideas Minecraft: Real Camping Tips from a Blocky World"
 meta: "Tent ideas Minecraft style: take inspiration from in-game survival shelters to improve your real tent setup, gear storage, and campsite organization."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-ideas-minecraft-real-camping-tips-f.webp"
+image: "/images/tent-ideas-minecraft-real-camping-tips-from-a-blocky-world.webp"
 pubDate: "2026-07-15T05:30:00Z"
 ---
 

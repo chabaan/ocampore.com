@@ -3,7 +3,7 @@ title: "Camping Tent Essentials: What to Pack for a Solid Night's Sleep"
 meta: "Stop guessing what you need. These camping tent essentials go beyond the basics with specific setup and weather-proofing tips for a real night's rest."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/camping-tent-essentials-what-to-pack-for.webp"
+image: "/images/camping-tent-essentials-what-to-pack-for-a-solid-nights-sleep.webp"
 pubDate: "2026-07-06T03:00:00Z"
 ---
 

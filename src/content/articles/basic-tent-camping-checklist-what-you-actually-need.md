@@ -3,7 +3,7 @@ title: "Basic Tent Camping Checklist: What You Actually Need"
 meta: "A basic tent camping checklist with gear tips, setup tricks, and safety notes. Get exactly what you need for a comfortable, stress-free trip."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/basic-tent-camping-checklist-what-you-ac.webp"
+image: "/images/basic-tent-camping-checklist-what-you-actually-need.webp"
 pubDate: "2026-07-25T03:00:00Z"
 ---
 

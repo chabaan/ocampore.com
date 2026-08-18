@@ -3,7 +3,7 @@ title: "Camping Organization Tent: Smart Gear Flow for Less Fumbling"
 meta: "Stop the tent chaos. This guide to camping organization tent setup shares a specific gear-flow method that keeps your space tidy, dry, and easy to navigate."
 category: "Camping Organization"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/camping-organization-tent-smart-gear-flo.webp"
+image: "/images/camping-organization-tent-smart-gear-flow-for-less-fumbling.webp"
 pubDate: "2026-07-11T03:00:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Tent Camping Ideas with Kids: Setup & Gear Tips"
 meta: "Practical tent camping ideas with kids: setup sequence, gear hacks, and safety tips for a smooth family trip."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-ideas-with-kids-setup-gear-.webp"
+image: "/images/tent-camping-ideas-with-kids-setup-gear-tips.webp"
 pubDate: "2026-07-20T16:00:00Z"
 ---
 

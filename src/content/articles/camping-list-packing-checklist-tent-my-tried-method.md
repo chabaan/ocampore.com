@@ -3,7 +3,7 @@ title: "Camping List Packing Checklist Tent: My Tried Method"
 meta: "Stop forgetting gear. My camping list packing checklist tent method uses zones and a single trick to save time at every campsite."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/camping-list-packing-checklist-tent-my-t.webp"
+image: "/images/camping-list-packing-checklist-tent-my-tried-method.webp"
 pubDate: "2026-08-03T16:00:00Z"
 ---
 

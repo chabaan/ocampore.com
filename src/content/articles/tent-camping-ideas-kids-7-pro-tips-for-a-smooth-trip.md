@@ -3,7 +3,7 @@ title: "Tent Camping Ideas Kids: 7 Pro Tips for a Smooth Trip"
 meta: "Tent camping ideas kids will actually enjoy: setup hacks, gear tricks, and safe play zones from an experienced tent camping writer."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-ideas-kids-7-pro-tips-for-a.webp"
+image: "/images/tent-camping-ideas-kids-7-pro-tips-for-a-smooth-trip.webp"
 pubDate: "2026-07-13T14:30:00Z"
 ---
 

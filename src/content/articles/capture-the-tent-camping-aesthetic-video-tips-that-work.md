@@ -3,7 +3,7 @@ title: "Capture the Tent Camping Aesthetic: Video Tips That Work"
 meta: "Learn how to film a tent camping aesthetic video that feels real and atmospheric. Practical tips on light, sound, and composition for genuine outdoor content."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/capture-the-tent-camping-aesthetic-video.webp"
+image: "/images/capture-the-tent-camping-aesthetic-video-tips-that-work.webp"
 pubDate: "2026-07-26T16:00:00Z"
 ---
 

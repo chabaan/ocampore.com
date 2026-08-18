@@ -3,7 +3,7 @@ title: "Kid-Friendly Tent Ideas: Setup That Actually Works"
 meta: "Practical tent ideas for kids that focus on safe setup, sleep comfort, and weather readiness. Learn kid-tested techniques for a successful campout."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/kid-friendly-tent-ideas-setup-that-actua.webp"
+image: "/images/kid-friendly-tent-ideas-setup-that-actually-works.webp"
 pubDate: "2026-07-11T20:30:00Z"
 ---
 

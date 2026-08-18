@@ -3,7 +3,7 @@ title: "Family Tent Camping Essentials: Real Gear That Works"
 meta: "Family tent camping essentials that actually work for real families. Learn the gear, setup tricks, and safety tips that make camping with kids easier."
 category: "Camping Essentials"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/family-tent-camping-essentials-real-gear.webp"
+image: "/images/family-tent-camping-essentials-real-gear-that-works.webp"
 pubDate: "2026-07-11T01:30:00Z"
 ---
 

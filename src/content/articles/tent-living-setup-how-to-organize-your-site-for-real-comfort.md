@@ -3,7 +3,7 @@ title: "Tent Living Setup: How to Organize Your Site for Real Comfort"
 meta: "A practical tent living setup guide with specific gear placement, weather tactics, and a unique zipper trick for comfort in any condition."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-living-setup-how-to-organize-your-s.webp"
+image: "/images/tent-living-setup-how-to-organize-your-site-for-real-comfort.webp"
 pubDate: "2026-07-21T16:00:00Z"
 ---
 

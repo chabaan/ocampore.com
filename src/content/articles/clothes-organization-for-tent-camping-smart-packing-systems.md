@@ -3,7 +3,7 @@ title: "Clothes Organization for Tent Camping: Smart Packing Systems"
 meta: "Stop living out of a messy duffel. Learn clothes organization tent camping systems that work in rain, wind, and tight tent spaces."
 category: "Camping Organization"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/clothes-organization-for-tent-camping-sm.webp"
+image: "/images/clothes-organization-for-tent-camping-smart-packing-systems.webp"
 pubDate: "2026-07-22T03:00:00Z"
 ---
 

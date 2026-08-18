@@ -3,7 +3,7 @@ title: "Camping Clothes Organization Ideas for Your Tent"
 meta: "Learn practical camping clothes organization ideas for your tent, from packing cubes to hanging pockets, to keep gear dry and accessible."
 category: "Camping Organization"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/camping-clothes-organization-ideas-for-y.webp"
+image: "/images/camping-clothes-organization-ideas-for-your-tent.webp"
 pubDate: "2026-08-06T05:30:00Z"
 ---
 

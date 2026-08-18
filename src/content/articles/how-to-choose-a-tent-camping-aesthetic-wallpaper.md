@@ -3,7 +3,7 @@ title: "How to Choose a Tent Camping Aesthetic Wallpaper"
 meta: "Find the perfect tent camping aesthetic wallpaper for your phone or desktop with these specific tips on composition, color, and mood."
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/how-to-choose-a-tent-camping-aesthetic-w.webp"
+image: "/images/how-to-choose-a-tent-camping-aesthetic-wallpaper.webp"
 pubDate: "2026-07-19T18:00:00Z"
 ---
 

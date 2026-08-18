@@ -3,7 +3,7 @@ title: "Tent Camping Organization Bedroom: Sleep Zone Setup"
 meta: "Transform your tent camping organization bedroom into a calm, clutter-free sleep zone with these expert layout and storage tricks."
 category: "Camping Organization"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-organization-bedroom-sleep-.webp"
+image: "/images/tent-camping-organization-bedroom-sleep-zone-setup.webp"
 pubDate: "2026-08-07T23:00:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Cozy Tent Camping Aesthetic: Inside Your Tent Makeover"
 meta: "Transform your tent interior with a warm, cozy tent camping aesthetic. Learn lighting, layering, and organization tips for a beautiful campsite."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/cozy-tent-camping-aesthetic-inside-your-.webp"
+image: "/images/cozy-tent-camping-aesthetic-inside-your-tent-makeover.webp"
 pubDate: "2026-07-30T18:00:00Z"
 ---
 

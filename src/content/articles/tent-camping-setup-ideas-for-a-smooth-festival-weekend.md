@@ -3,7 +3,7 @@ title: "Tent Camping Setup Ideas for a Smooth Festival Weekend"
 meta: "Smart tent camping setup ideas for festivals: stake guylines in a star pattern, create a shaded vestibule, and keep gear dry. Real tips for a stress-free camp."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-setup-ideas-for-a-smooth-fe.webp"
+image: "/images/tent-camping-setup-ideas-for-a-smooth-festival-weekend.webp"
 pubDate: "2026-08-09T05:30:00Z"
 ---
 

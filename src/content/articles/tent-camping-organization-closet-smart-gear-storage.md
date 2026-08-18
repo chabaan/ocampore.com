@@ -3,7 +3,7 @@ title: "Tent Camping Organization Closet: Smart Gear Storage"
 meta: "Build a tent camping organization closet that actually works. Learn my exact method for sorting gear, choosing containers, and saving space at camp."
 category: "Camping Organization"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-organization-closet-smart-g.webp"
+image: "/images/tent-camping-organization-closet-smart-gear-storage.webp"
 pubDate: "2026-08-05T01:30:00Z"
 ---
 

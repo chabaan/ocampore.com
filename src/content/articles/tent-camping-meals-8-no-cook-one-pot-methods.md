@@ -3,7 +3,7 @@ title: "Tent Camping Meals: 8 No-Cook & One-Pot Methods"
 meta: "Tired of bland tent camping meals? Learn no-cook breakfasts and one-pot dinners that save time, reduce cleanup, and taste great in the backcountry."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-meals-8-no-cook-one-pot-met.webp"
+image: "/images/tent-camping-meals-8-no-cook-one-pot-methods.webp"
 pubDate: "2026-07-29T16:00:00Z"
 ---
 

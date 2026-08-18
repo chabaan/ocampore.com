@@ -3,7 +3,7 @@ title: "Tent Camping Organization Hacks: Gear Storage Tips"
 meta: "Discover tent camping organization hacks that actually work. Learn smarter gear storage, kitchen setup, and weather-ready tips for a stress-free trip."
 category: "Camping Organization"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-organization-hacks-gear-sto.webp"
+image: "/images/tent-camping-organization-hacks-gear-storage-tips.webp"
 pubDate: "2026-08-09T20:30:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Weekend Tent Camping Essentials That Actually Matter"
 meta: "Discover weekend tent camping essentials with a smart layering system, setup tricks for wind and rain, and safety tips for a stress-free trip."
 category: "Camping Essentials"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/weekend-tent-camping-essentials-that-act.webp"
+image: "/images/weekend-tent-camping-essentials-that-actually-matter.webp"
 pubDate: "2026-07-26T01:30:00Z"
 ---
 

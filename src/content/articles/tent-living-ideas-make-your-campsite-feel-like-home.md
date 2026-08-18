@@ -3,7 +3,7 @@ title: "Tent Living Ideas: Make Your Campsite Feel Like Home"
 meta: "Practical tent living ideas for comfort and function. Learn how to organize your space, manage weather, and create a cozy campsite."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-living-ideas-make-your-campsite-fee.webp"
+image: "/images/tent-living-ideas-make-your-campsite-feel-like-home.webp"
 pubDate: "2026-07-19T16:00:00Z"
 ---
 

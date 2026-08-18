@@ -3,7 +3,7 @@ title: "Rooftop Tent Camping Essentials: Gear & Setup Tips"
 meta: "Discover essential gear and setup tips for rooftop tent camping, including a unique rainfly trick and safety advice for a comfortable night."
 category: "Camping Essentials"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/rooftop-tent-camping-essentials-gear-set.webp"
+image: "/images/rooftop-tent-camping-essentials-gear-setup-tips.webp"
 pubDate: "2026-07-28T16:00:00Z"
 ---
 

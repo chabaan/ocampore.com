@@ -3,7 +3,7 @@ title: "Tent Camping Hacks with Kids: Setup & Sanity Savers"
 meta: "Smart tent camping hacks with kids that actually work. Learn gear tricks, setup shortcuts, and sanity savers from an experienced tent camper."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-hacks-with-kids-setup-sanit.webp"
+image: "/images/tent-camping-hacks-with-kids-setup-sanity-savers.webp"
 pubDate: "2026-07-17T14:30:00Z"
 ---
 

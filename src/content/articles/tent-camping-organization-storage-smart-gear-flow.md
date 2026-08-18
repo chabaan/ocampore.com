@@ -3,7 +3,7 @@ title: "Tent Camping Organization Storage: Smart Gear Flow"
 meta: "Learn tent camping organization storage with real system tricks for gear flow, dry zones, and kid-friendly setups. No fluff, just technique."
 category: "Camping Organization"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-organization-storage-smart-.webp"
+image: "/images/tent-camping-organization-storage-smart-gear-flow.webp"
 pubDate: "2026-08-03T01:30:00Z"
 ---
 

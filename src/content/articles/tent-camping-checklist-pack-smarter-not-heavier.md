@@ -3,7 +3,7 @@ title: "Tent Camping Checklist: Pack Smarter, Not Heavier"
 meta: "A tent camping checklist that goes beyond the basics. Learn my method for packing with purpose, avoiding gear overload, and setting up with less hassle."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-camping-checklist-pack-smarter-not-.webp"
+image: "/images/tent-camping-checklist-pack-smarter-not-heavier.webp"
 pubDate: "2026-07-30T01:30:00Z"
 ---
 

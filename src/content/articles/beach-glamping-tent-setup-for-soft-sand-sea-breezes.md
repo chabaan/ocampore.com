@@ -3,7 +3,7 @@ title: "Beach Glamping: Tent Setup for Soft Sand & Sea Breezes"
 meta: "Tent camping ideas for a glamping beach trip: how to pitch a tent on sand, manage wind, and create a cozy camp by the shore."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/beach-glamping-tent-setup-for-soft-sand-.webp"
+image: "/images/beach-glamping-tent-setup-for-soft-sand-sea-breezes.webp"
 pubDate: "2026-07-31T16:00:00Z"
 ---
 

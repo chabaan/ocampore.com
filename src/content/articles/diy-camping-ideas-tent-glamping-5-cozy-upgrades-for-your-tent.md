@@ -3,7 +3,7 @@ title: "DIY Camping Ideas Tent Glamping: 5 Cozy Upgrades for Your Tent"
 meta: "Discover DIY camping ideas tent glamping with 5 cozy upgrades for your tent. Easy, low-cost tips to add comfort and style to your next camping trip."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/diy-camping-ideas-tent-glamping-5-cozy-u.webp"
+image: "/images/diy-camping-ideas-tent-glamping-5-cozy-upgrades-for-your-tent.webp"
 pubDate: "2026-07-27T20:30:00Z"
 ---
 

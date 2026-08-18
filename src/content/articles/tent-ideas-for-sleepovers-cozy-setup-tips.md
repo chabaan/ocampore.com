@@ -3,7 +3,7 @@ title: "Tent Ideas for Sleepovers: Cozy Setup Tips"
 meta: "Discover tent ideas for sleepovers that work in a backyard or living room, with setup tricks for comfort, airflow, and fun."
 category: "Tent Camping Tips"
 author: "ALEN BAYA"
-image: "https://ocampore.com/wp-content/uploads/2026/07/tent-ideas-for-sleepovers-cozy-setup-tip.webp"
+image: "/images/tent-ideas-for-sleepovers-cozy-setup-tips.webp"
 pubDate: "2026-07-20T23:00:00Z"
 ---
 

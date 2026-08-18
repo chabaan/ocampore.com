@@ -3,7 +3,7 @@ title: "Full-Time Tent Living: 7 Essential Setup Tips That Actually Work"
 meta: "Full-time tent living requires a different approach than weekend camping. Learn 7 essential setup techniques and a unique moisture management trick for long-ter"
 category: "Tent Camping Tips"
 author: "lilia Nafal"
-image: "https://ocampore.com/wp-content/uploads/2026/07/full-time-tent-living-7-essential-setup-.webp"
+image: "/images/full-time-tent-living-7-essential-setup-tips-that-actually-work.webp"
 pubDate: "2026-08-05T03:00:00Z"
 ---
 
